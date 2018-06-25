@@ -450,7 +450,7 @@ class Random(_random.Random):
 
         # Based upon an algorithm published in: Fisher, N.I.,
         # "Statistical Analysis of Circular Data", Cambridge
-        # University Press, 1993.
+        #  Press, 1993.
 
         # Thanks to Magnus Kessler for a correction to the
         # implementation of step 4.

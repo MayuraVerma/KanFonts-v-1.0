@@ -415,7 +415,7 @@ please contact Oracle at berkeleydb-info_us@oracle.com.
  */
 /*
  * Copyright (c) 1990, 1993, 1994, 1995
- *	The Regents of the University of California.  All rights reserved.
+ *	The Regents of the  of California.  All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
@@ -425,7 +425,7 @@ please contact Oracle at berkeleydb-info_us@oracle.com.
  * 2. Redistributions in binary form must reproduce the above copyright
  *    notice, this list of conditions and the following disclaimer in the
  *    documentation and/or other materials provided with the distribution.
- * 3. Neither the name of the University nor the names of its contributors
+ * 3. Neither the name of the  nor the names of its contributors
  *    may be used to endorse or promote products derived from this software
  *    without specific prior written permission.
  *
@@ -443,7 +443,7 @@ please contact Oracle at berkeleydb-info_us@oracle.com.
  */
 /*
  * Copyright (c) 1995, 1996
- *	The President and Fellows of Harvard University.  All rights reserved.
+ *	The President and Fellows of Harvard .  All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions
@@ -453,7 +453,7 @@ please contact Oracle at berkeleydb-info_us@oracle.com.
  * 2. Redistributions in binary form must reproduce the above copyright
  *    notice, this list of conditions and the following disclaimer in the
  *    documentation and/or other materials provided with the distribution.
- * 3. Neither the name of the University nor the names of its contributors
+ * 3. Neither the name of the  nor the names of its contributors
  *    may be used to endorse or promote products derived from this software
  *    without specific prior written permission.
  *
@@ -632,7 +632,7 @@ This copy of Python includes a copy of openssl, which is licensed under the foll
 
 This copy of Python includes a copy of Tcl, which is licensed under the following terms:
 
-This software is copyrighted by the Regents of the University of
+This software is copyrighted by the Regents of the  of
 California, Sun Microsystems, Inc., Scriptics Corporation, ActiveState
 Corporation and other parties.  The following terms apply to all files
 associated with the software unless explicitly disclaimed in
@@ -675,7 +675,7 @@ terms specified in this license.
 
 This copy of Python includes a copy of Tk, which is licensed under the following terms:
 
-This software is copyrighted by the Regents of the University of
+This software is copyrighted by the Regents of the  of
 California, Sun Microsystems, Inc., and other parties.  The following
 terms apply to all files associated with the software unless explicitly
 disclaimed in individual files.
@@ -763,7 +763,7 @@ terms specified in this license.
 ----------------------------------------------------------------------
 
 Parts of this software are based on the Tcl/Tk software copyrighted by
-the Regents of the University of California, Sun Microsystems, Inc.,
+the Regents of the  of California, Sun Microsystems, Inc.,
 and other parties. The original license terms of the Tcl/Tk software
 distribution is included in the file docs/license.tcltk.
 
